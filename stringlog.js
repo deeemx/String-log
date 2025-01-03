@@ -1,4 +1,4 @@
-paste for vers 1.18
+paste for vers 1.8
 
 
 
